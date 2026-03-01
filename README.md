@@ -1,8 +1,14 @@
-# NetKotH
+# Net-KotH Repository
+> **Network King of the Hill** - A comprehensive CTF scoring platform
 
-[![License](https://img.shields.io/github/license/6r1zzlyB/NetKotH)](./LICENSE)
+[![Fork](https://img.shields.io/badge/Fork-Repository-blue.svg)](https://github.com/6r1zzlyB/net-koth)
+[![License](https://img.shields.io/github/license/6r1zzlyB/net-koth)](./LICENSE)
 [![Technology](https://img.shields.io/badge/Technology-LAMP%20Stack-orange.svg)](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
 [![Platform](https://img.shields.io/badge/Platform-Linux-blue.svg)](https://www.linux.org/)
+[![Last Commit](https://img.shields.io/github/last-commit/6r1zzlyB/net-koth)](https://github.com/6r1zzlyB/net-koth/commits)
+[![Issues](https://img.shields.io/github/issues/6r1zzlyB/net-koth)](https://github.com/6r1zzlyB/net-koth/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/6r1zzlyB/net-koth)](https://github.com/6r1zzlyB/net-koth/pulls)
+[![Maintenance](https://img.shields.io/maintenance/yes/2026)](https://github.com/6r1zzlyB/net-koth)
 
 A comprehensive CTF (Capture The Flag) scoring server with automated LAMP stack deployment, web-based administration, and real-time score tracking.
 
